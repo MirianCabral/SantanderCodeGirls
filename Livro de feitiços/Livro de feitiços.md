@@ -1,5 +1,7 @@
 # Livro de Feitiços 🪄
-![Gif Harry Potter](/Gif/giphy.gif)
+
+![Gif Harry Potter](./Gif/giphy.gif)
+
 #### O Livro de feitiços funciona como um guia de conceitos dos meus projetos, inspirado em Harry Potter. 
 
 ## 1️⃣ **Conceitos de Nuvem e AWS**
