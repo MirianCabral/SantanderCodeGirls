@@ -38,4 +38,4 @@ O nome é inspirado no Livro de Feitiços da série Harry Potter, uma referênci
 - ☁️ Amazon Web Services (AWS)
 - 🧩 Git & GitHub
 - 🧾 Markdown
-- VSCodee
+- VSCode
